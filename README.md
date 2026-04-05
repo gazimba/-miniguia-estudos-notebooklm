@@ -5,7 +5,7 @@
 
 Este repositório contém um Caderno Temático desenvolvido como projeto prático de estudos, explorando o uso da Inteligência Artificial (NotebookLM) para sintetizar e organizar o complexo arcabouço jurídico das leis ambientais no Brasil.
 
-## 🎯 Contexto e Objetivos
+## Contexto e Objetivos
 
 O foco deste material é compreender as principais diretrizes que regem o **Licenciamento Ambiental** e a proteção de ecossistemas, facilitando a consulta técnica para profissionais do setor. O objetivo deste material é:
 
@@ -14,7 +14,7 @@ O foco deste material é compreender as principais diretrizes que regem o **Lice
 * Mapear responsabilidades civis e administrativas em casos de infração.
 * Utilizar IA para transformar textos jurídicos densos em guias práticos de consulta rápida.
 
-## 📚 Curadoria de Fontes
+## Curadoria de Fontes
 
 Para alimentar o NotebookLM e garantir conformidade com a legislação vigente, as seguintes fontes foram selecionadas:
 
@@ -24,7 +24,7 @@ Para alimentar o NotebookLM e garantir conformidade com a legislação vigente, 
 4.  **Lei Complementar nº 140/2011:** Define as competências entre União, Estados e Municípios.
 5.  **Código Florestal (Lei nº 12.651/2012):** Regras sobre Áreas de Preservação Permanente (APP) e Reserva Legal.
 
-## 🛠️ Engenharia de Prompts e Ajustes
+## Engenharia de Prompts e Ajustes
 
 Durante o treinamento da IA com as fontes jurídicas, refinei a forma de perguntar para evitar interpretações genéricas:
 
@@ -33,7 +33,7 @@ Durante o treinamento da IA com as fontes jurídicas, refinei a forma de pergunt
 * **Teste 2 (Prompt Estruturado - Sucesso):** *"Atue como um consultor jurídico ambiental. Com base na Resolução CONAMA 237, enumere os documentos mínimos necessários para uma Licença de Instalação (LI) em empreendimentos de impacto local."*
     * *Resultado:* A IA gerou um checklist técnico preciso, separando o que é competência municipal.
 
-## 📖 Miniguia de Estudo
+## Miniguia de Estudo
 
 ### 1. Resumo Estruturado: O Tripé do Licenciamento
 
